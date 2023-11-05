@@ -1,0 +1,8 @@
+numpy==latest
+biopython==latest
+matplotlib==latest
+pandas==latest
+networkx==latest
+sklearn==latest
+tqdm==latest
+scipy==latest
